@@ -1,0 +1,34 @@
+{
+  "usuario": [
+    {
+      "username": "nataly",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "username": "xoch",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "username": "eric",
+      "password": "1234",
+      "email": "eric@mail.com",
+      "id": 4
+    },
+    {
+      "username": "rebe",
+      "password": "1234",
+      "name": "Rebeca",
+      "last_name": "lala",
+      "rol": "Mesero",
+      "sucursal": 2,
+      "id": 5
+    },
+    {
+      "username": "fix",
+      "password": "1234",
+      "id": 6
+    }
+  ]
+}
